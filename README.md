@@ -31,7 +31,7 @@ The full project includes **real wiring** and **Fritzing schematics**, plus a de
 ## 🖼️ Project Images
 
 ### 🔌 Real Wiring  
-![Real Wiring](media/wiring-real.jpg)
+![Real Wiring](media/wiring-real.png)
 
 ### 🖥️ Fritzing Schematic  
 ![Fritzing Wiring](media/wiring-fritzing.png)
@@ -70,7 +70,7 @@ solar-follower/
 ---
 ## 🎬 Demo
 
-[Watch Project Demo](media/project-demo.mp4)
+[Watch Project Demo](media/project_demo.mp4)
 
 ---
 ## 📧 Contact
